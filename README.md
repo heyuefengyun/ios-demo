@@ -1,1 +1,2 @@
 # ios-demo
+导航模态连用获取window当前vc是研究获取顶级viewcontroller或者容器
